@@ -4,3 +4,4 @@ generated/
 *.zip
 node_modules
 scrub.py
+.Rproj.user
