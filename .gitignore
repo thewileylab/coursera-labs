@@ -5,6 +5,7 @@ generated/
 *.tar.gz
 *.rds
 *.csv
+*.txt
 node_modules
 scrub.py
 .Rproj.user
