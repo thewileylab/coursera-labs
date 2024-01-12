@@ -2,6 +2,9 @@ generated/
 /.idea
 *.DS_Store
 *.zip
+*.tar.gz
+*.rds
+*.csv
 node_modules
 scrub.py
 .Rproj.user
