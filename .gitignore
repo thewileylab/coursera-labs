@@ -6,6 +6,7 @@ generated/
 *.rds
 *.csv
 *.txt
+.env
 node_modules
 scrub.py
 .Rproj.user
